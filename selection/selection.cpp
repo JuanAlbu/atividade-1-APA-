@@ -43,11 +43,11 @@ int main() {
      
      while (!myReadFile.eof()) {
 
-        myReadFile >> output;
-        array[tamanho] = atoi(output);
-        tamanho++;
+     myReadFile >> output;
+     array[tamanho] = atoi(output);
+     tamanho++;
 
-     }
+    }
     }
     myReadFile.close();  
 
