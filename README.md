@@ -1,6 +1,8 @@
 # atividade-1-APA-
 
-entre na pagina do exercicio (insertion ou selection)
+Nome: Juan Lima de Albuquerque       Matricula: 11510173
+
+Entre na página do exercício (insertion ou selection)
 
 1º comando: make
 
